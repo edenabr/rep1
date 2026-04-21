@@ -104,4 +104,3 @@ The following directory should be added to compiler include paths:
 The following directory should be added to linker library paths:
 
     /home/vboxuser/boost_1_69_0/stage/lib
-
